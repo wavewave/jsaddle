@@ -2,7 +2,6 @@
 {-# LANGUAGE FlexibleInstances #-}
 {-# LANGUAGE TypeSynonymInstances #-}
 #ifdef ghcjs_HOST_OS
-{-# OPTIONS_GHC -Wno-dodgy-imports #-}
 #endif
 -----------------------------------------------------------------------------
 --

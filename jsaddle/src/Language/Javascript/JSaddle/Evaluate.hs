@@ -2,7 +2,6 @@
 {-# LANGUAGE FlexibleInstances #-}
 #ifdef ghcjs_HOST_OS
 {-# LANGUAGE ForeignFunctionInterface, JavaScriptFFI #-}
-{-# OPTIONS_GHC -Wno-dodgy-exports -Wno-dodgy-imports #-}
 #endif
 -----------------------------------------------------------------------------
 --

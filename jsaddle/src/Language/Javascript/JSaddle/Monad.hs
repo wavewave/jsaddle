@@ -1,7 +1,6 @@
 {-# LANGUAGE CPP #-}
 {-# LANGUAGE PatternSynonyms #-}
 #ifdef ghcjs_HOST_OS
-{-# OPTIONS_GHC -Wno-dodgy-exports -Wno-dodgy-imports #-}
 #endif
 -----------------------------------------------------------------------------
 --

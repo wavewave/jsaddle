@@ -6,7 +6,6 @@
 #ifdef ghcjs_HOST_OS
 {-# LANGUAGE ForeignFunctionInterface #-}
 {-# LANGUAGE JavaScriptFFI #-}
-{-# OPTIONS_GHC -Wno-dodgy-exports -Wno-dodgy-imports #-}
 #endif
 {-# OPTIONS_GHC -fno-warn-orphans #-}
 -----------------------------------------------------------------------------

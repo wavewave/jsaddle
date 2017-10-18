@@ -1,6 +1,5 @@
 {-# LANGUAGE CPP                        #-}
 #ifdef ghcjs_HOST_OS
-{-# OPTIONS_GHC -Wno-dodgy-exports      #-}
 #else
 {-# LANGUAGE TypeFamilies               #-}
 {-# LANGUAGE UndecidableInstances       #-}
